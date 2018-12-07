@@ -11,9 +11,9 @@ func main() {
 
 	x := 1
 	if x == 1 {
-		cat.FromCat()
+		cat.CatSpeak()
 	} else {
-		cat.CatEats()
+		cat.CatFood()
 	}
 
 }

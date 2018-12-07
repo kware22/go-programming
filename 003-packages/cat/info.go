@@ -2,12 +2,12 @@ package cat
 
 import "fmt"
 
-func FromCat() {
+func CatSpeak() {
 
-	fmt.Println("Hello from cat")
+	fmt.Println("Hello from a cat")
 }
 
-func CatEats() {
+func CatFood() {
 
-	fmt.Println("I eat cat food")
+	fmt.Println("Cats eat cat food")
 }
